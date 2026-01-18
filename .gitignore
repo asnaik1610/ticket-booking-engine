@@ -3,6 +3,9 @@ target/
 .mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
+*.class
+*.log
+.env
 
 ### STS ###
 .apt_generated
@@ -38,5 +41,4 @@ frontend/dist/
 frontend/dist-ssr/
 frontend/.env
 frontend/.env.*
-
-
+frontend/.eslintcache

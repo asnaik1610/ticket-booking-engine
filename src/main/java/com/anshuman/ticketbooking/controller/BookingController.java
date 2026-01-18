@@ -3,7 +3,7 @@ package com.anshuman.ticketbooking.controller;
 import com.anshuman.ticketbooking.dto.BookingRequestDTO;
 import com.anshuman.ticketbooking.dto.BookingResponseDTO;
 import com.anshuman.ticketbooking.service.BookingCommand;
-import com.anshuman.ticketbookingg.service.BookingResult;
+import com.anshuman.ticketbooking.service.BookingResult;
 import com.anshuman.ticketbooking.service.BookingService;
 import com.anshuman.ticketbooking.service.BookingStrategyType;
 import java.util.Optional;
